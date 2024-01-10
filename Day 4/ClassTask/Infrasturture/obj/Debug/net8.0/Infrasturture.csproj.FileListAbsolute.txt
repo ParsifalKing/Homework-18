@@ -1,0 +1,15 @@
+C:\Users\lenov\OneDrive\Desktop\C#\Practice\Day 4\ClassTask\Infrasturture\bin\Debug\net8.0\Infrasturture.deps.json
+C:\Users\lenov\OneDrive\Desktop\C#\Practice\Day 4\ClassTask\Infrasturture\bin\Debug\net8.0\Infrasturture.dll
+C:\Users\lenov\OneDrive\Desktop\C#\Practice\Day 4\ClassTask\Infrasturture\bin\Debug\net8.0\Infrasturture.pdb
+C:\Users\lenov\OneDrive\Desktop\C#\Practice\Day 4\ClassTask\Infrasturture\bin\Debug\net8.0\Domain.dll
+C:\Users\lenov\OneDrive\Desktop\C#\Practice\Day 4\ClassTask\Infrasturture\bin\Debug\net8.0\Domain.pdb
+C:\Users\lenov\OneDrive\Desktop\C#\Practice\Day 4\ClassTask\Infrasturture\obj\Debug\net8.0\Infrasturture.csproj.AssemblyReference.cache
+C:\Users\lenov\OneDrive\Desktop\C#\Practice\Day 4\ClassTask\Infrasturture\obj\Debug\net8.0\Infrasturture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenov\OneDrive\Desktop\C#\Practice\Day 4\ClassTask\Infrasturture\obj\Debug\net8.0\Infrasturture.AssemblyInfoInputs.cache
+C:\Users\lenov\OneDrive\Desktop\C#\Practice\Day 4\ClassTask\Infrasturture\obj\Debug\net8.0\Infrasturture.AssemblyInfo.cs
+C:\Users\lenov\OneDrive\Desktop\C#\Practice\Day 4\ClassTask\Infrasturture\obj\Debug\net8.0\Infrasturture.csproj.CoreCompileInputs.cache
+C:\Users\lenov\OneDrive\Desktop\C#\Practice\Day 4\ClassTask\Infrasturture\obj\Debug\net8.0\Infrasturture.csproj.CopyComplete
+C:\Users\lenov\OneDrive\Desktop\C#\Practice\Day 4\ClassTask\Infrasturture\obj\Debug\net8.0\Infrasturture.dll
+C:\Users\lenov\OneDrive\Desktop\C#\Practice\Day 4\ClassTask\Infrasturture\obj\Debug\net8.0\refint\Infrasturture.dll
+C:\Users\lenov\OneDrive\Desktop\C#\Practice\Day 4\ClassTask\Infrasturture\obj\Debug\net8.0\Infrasturture.pdb
+C:\Users\lenov\OneDrive\Desktop\C#\Practice\Day 4\ClassTask\Infrasturture\obj\Debug\net8.0\ref\Infrasturture.dll
